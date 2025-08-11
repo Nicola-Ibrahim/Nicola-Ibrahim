@@ -9,4 +9,4 @@ Python 🐍 is not just my favorite—it’s my superpower! 🙂
 ## 🚀 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/nicola-ibrahim/)  
 
-📧 Feel free to reach out—I’m always open to discussing new ideas, collaborations, or just geeking out over Python!  
+📧 Feel free to reach out—I’m always open to discussing new ideas, collaborations, or just geeking out over Development!  
