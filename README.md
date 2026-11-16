@@ -1,12 +1,9 @@
-# 🌟 About Me  
-Hi there! 👋 I love **architecting meaningful systems** and bringing them to life through rapid prototyping. Let's make something amazing together!  
+## 👋 About Me
 
-Python 🐍 is not just my favorite—it’s my superpower! 🙂  
-
+I'm a **Software Engineer** interested in software architecture, backend systems, and applied AI. I enjoy designing systems, exploring new technologies, and turning ideas into working solutions through rapid prototyping.
 
 ---
 
-## 🚀 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/nicola-ibrahim/)  
+## 🔗 Connect
 
-📧 Feel free to reach out—I’m always open to discussing new ideas, collaborations, or just geeking out over Development!  
+💼 [LinkedIn](https://www.linkedin.com/in/nicola-ibrahim/)
