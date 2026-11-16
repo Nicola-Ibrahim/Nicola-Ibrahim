@@ -4,6 +4,8 @@ I'm a **Software Engineer** interested in software architecture, backend systems
 
 ---
 
-## 🔗 Connect
+## 🔗 Links
+
+🌐 [Portfolio](https://nicola-ibrahim.github.io/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/nicola-ibrahim/)
